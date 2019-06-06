@@ -1,2 +1,2 @@
 # ML-QSTP-19
-Quark Summer Technical Program 
+This repository consists of the projects done in Machine Learning at Quark Summer Techincal Project.
